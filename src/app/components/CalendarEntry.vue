@@ -10,6 +10,5 @@ name: 'CalendarEntry'
 </script>
 <style lang="scss" scoped>
 #calendar-entry {
-<!-- SCSS for calendar entry -->
 }
 </style>
